@@ -1,0 +1,21 @@
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+
+.scoreDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 10vh;
+    border-radius: 40px;
+    background-color: rgb(67, 67, 212);
+}
+
+#currentScore {
+    background-color: rgb(230, 59, 59);
+}
