@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.3c32df11.css",
+    "main.js": "/memory-card/static/js/main.8cc94675.js",
+    "static/media/mantinia-regular.otf": "/memory-card/static/media/mantinia-regular.17509f704db56aefbca6.otf",
+    "static/media/crossbow.png": "/memory-card/static/media/crossbow.69d7c67928a308758e48.png",
+    "static/media/axe.png": "/memory-card/static/media/axe.3caceed35ca9065f5153.png",
+    "static/media/starscourge.png": "/memory-card/static/media/starscourge.30c435bf6d8453c7f1e3.png",
+    "index.html": "/memory-card/index.html",
+    "main.3c32df11.css.map": "/memory-card/static/css/main.3c32df11.css.map",
+    "main.8cc94675.js.map": "/memory-card/static/js/main.8cc94675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c32df11.css",
+    "static/js/main.8cc94675.js"
+  ]
+}
